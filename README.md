@@ -1,2 +1,2 @@
 # testrepo
-This repo is for practice git, leave it alone :D
+I am just uploading my hobby projects here.
