@@ -1,0 +1,7 @@
+D:\Hobby_projects\FolderSizeRanker\FolderSizeRanker\FolderSizeRanker\bin\Debug\FolderSizeRanker.exe.config
+D:\Hobby_projects\FolderSizeRanker\FolderSizeRanker\FolderSizeRanker\bin\Debug\FolderSizeRanker.exe
+D:\Hobby_projects\FolderSizeRanker\FolderSizeRanker\FolderSizeRanker\bin\Debug\FolderSizeRanker.pdb
+D:\Hobby_projects\FolderSizeRanker\FolderSizeRanker\FolderSizeRanker\obj\Debug\FolderSizeRanker.csprojAssemblyReference.cache
+D:\Hobby_projects\FolderSizeRanker\FolderSizeRanker\FolderSizeRanker\obj\Debug\FolderSizeRanker.csproj.CoreCompileInputs.cache
+D:\Hobby_projects\FolderSizeRanker\FolderSizeRanker\FolderSizeRanker\obj\Debug\FolderSizeRanker.exe
+D:\Hobby_projects\FolderSizeRanker\FolderSizeRanker\FolderSizeRanker\obj\Debug\FolderSizeRanker.pdb
